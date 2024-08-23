@@ -1,0 +1,136 @@
+.main{
+    background-color: #1A2130;
+    color: white;
+    
+
+}
+
+.socialPage{
+    background-color: #1A2130;
+    color: white;
+    
+}
+
+.projects-page{
+    background-color: #1A2130;
+    color: white;
+    
+
+}
+
+.aboutMe{
+    background-color: #1A2130;
+    color: white;
+    
+    
+}
+
+
+.lead{
+    color: rgb(170, 214, 231);
+}
+
+.image{
+    border-radius: 25%;
+
+}
+
+.logo{
+    height: 60px;
+    margin-left: 25%;
+}
+
+.footer-logo{
+    height: 40px;
+    margin: 25%;
+    margin-right: 10px;
+}
+
+.nav-link{
+    color: rgb(255, 255, 255) !important;
+}
+
+.container-social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.card{
+    margin: 20px;
+    border-radius: 5% !important;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.card-title{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+
+.projects-pics{
+    border-radius: 5%;
+}
+
+.gitHub{
+    margin-left: 5px;
+}
+
+.list-group2{
+    border: 1px solid #758694 !important;
+}
+
+.list-group-item{
+    background-color: #405D72 !important;
+    border: 1px solid #758694 !important;
+}
+
+.skill-font{
+    color: aliceblue;
+}
+
+.message-box{
+    height: 175px !important;
+}
+
+.input-box{
+    background-color: #405D72 !important;
+    border: 2px solid #758694 !important;
+}
+
+.card{
+    background-color: #405D72 !important;
+    border: 2px solid #758694 !important;
+    color: white !important;
+}
+
+.card:hover{
+    background-color: #405d72b4 !important;
+}
+
+.icon{
+    color: rgb(255, 255, 255) !important;
+    margin: 10px;
+}
+
+@media (min-width: 290px) and (max-width: 600px) {
+    .nav{
+        font-size: x-small;
+    }
+
+}
+
+@media (min-width: 601px) and (max-width: 1200px) {
+    .nav{
+        font-size: small;
+    }
+
+}
